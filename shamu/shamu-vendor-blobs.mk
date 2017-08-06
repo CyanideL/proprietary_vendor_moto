@@ -16,6 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/lib/libimscamera_jni.so:system/lib/libimscamera_jni.so \
+    vendor/moto/shamu/proprietary/lib/libjingle_peerconnection_so.so:system/lib/libjingle_peerconnection_so.so \
     vendor/moto/shamu/proprietary/lib/libimsmedia_jni.so:system/lib/libimsmedia_jni.so \
     vendor/moto/shamu/proprietary/lib/libdmengine.so:system/lib/libdmengine.so \
     vendor/moto/shamu/proprietary/lib/libdmjavaplugin.so:system/lib/libdmjavaplugin.so \
